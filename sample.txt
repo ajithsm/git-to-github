@@ -1,2 +1,7 @@
-HI 
+HI
+HOW ARE YOU?
 HAVE A NICE DAY!
+.
+..
+...
+....
